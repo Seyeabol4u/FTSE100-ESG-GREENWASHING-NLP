@@ -1,1 +1,0 @@
-This document summarises the analytical workflow used in the dissertation, including text preprocessing, LDA topic modelling, FinBERT sentiment analysis, company-level aggregation, integration with LSEG ESG performance measures, and statistical analysis.
