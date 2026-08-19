@@ -1,0 +1,11 @@
+pandas
+numpy
+PyMuPDF
+spacy
+gensim
+matplotlib
+tqdm
+torch
+transformers
+statsmodels
+ipython
